@@ -150,7 +150,7 @@ Program Studi: Informatika
 
 Universitas: Universitas Muhammadiyah Malang
 
-Mata Kuliah: Pembelajaran Mesin
+
 
 
 
